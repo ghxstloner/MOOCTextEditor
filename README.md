@@ -1,4 +1,4 @@
-# MOOCTextEditorMOOCTextEditor
+# MOOCTextEditor
 
 Mooctexteditor Is A Javafx-Based Text Editor With Advanced Features Such As Markovtext Generator, Autospelling, And Index Flesch Score. Additionally, It Comes With A Fun Word Game To Test Your Vocabulary Skills.
 
